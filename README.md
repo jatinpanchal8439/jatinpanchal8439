@@ -1,4 +1,18 @@
 <!-- Banner GIF -->
+<!-- Hacker GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=900&lines=%24+nmap+Jatin+Panchal;Initializing+Cyber+Profile...;Loading+MERN+Stack+Modules;Deploying+Portfolio+to+Netlify;Injecting+Code+into+the+Matrix...;Welcome+to+my+Dev+World+%F0%9F%9A%80" />
+</h1>
+
+---
+
+### 🧠 About Me — Terminal Style
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
